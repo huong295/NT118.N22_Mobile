@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quản lý nhân viên </string>
+    <string name="nhap_ma">Nhập mã:</string>
+    <string name="nhap_ten">Nhập tên:</string>
+</resources>

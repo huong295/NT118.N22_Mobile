@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab02_5</string>
+    <string name="name">Name</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="promotion">Promotion</string>
+    <string name="add">Add</string>
+
+</resources>
